@@ -2,10 +2,11 @@
 
 <div align="center">
 
+[![Live Demo](https://img.shields.io/badge/Demo-Live_Website-4C0827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rpprudenciado.github.io/Tracker-Expense/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![License: MIT](https://img.shields.io/badge/License-MIT-4C0827?style=for-the-badge)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-2D0605?style=for-the-badge)](LICENSE)
 
 > A lightweight 2-file daily expense tracker built with Vanilla JavaScript (ES6+) and Tailwind CSS for logging spending, managing custom categories, and monitoring live totals.
 
@@ -16,6 +17,10 @@
 ## Overview
 
 **Tracker Expense** is a client-side personal finance web application designed to keep daily spending organized without external frameworks or build steps. Users can log expenses with inline validation, create personalized categories on the fly, filter entries dynamically, and customize which category subtotals appear in the summary header.
+
+### Live Website
+
+- **Live Demo:** [https://rpprudenciado.github.io/Tracker-Expense/](https://rpprudenciado.github.io/Tracker-Expense/)
 
 ## Tech Stack & Tools
 
